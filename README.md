@@ -1,2 +1,2 @@
-# Path-Machine-Learning
+Machine-Learning
 For Machine Learning Path at DermaOne
