@@ -1,2 +1,2 @@
-Machine-Learning
-For Machine Learning Path at DermaOne
+## Machine-Learning
+DermaOne's Machine Learning Team Repository
